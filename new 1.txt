@@ -1,0 +1,28 @@
+1.What is HTML?
+Hyper Text Markup Language.Used to create web pages.
+
+2.what is element?
+The HTML element is everything from the start tag to the end tag
+i)h1....h6
+ii)body
+iii)paragraph
+iv)HTML
+
+3.What is Attributes
+An HTML attribute is a piece of markup language used to adjust the behavior or display of an HTML element.
+For example, attributes can be used to change the color, size, or functionality of HTML elements.
+
+4.Basic Structure of HTML
+DOCTYPE
+HTML
+Head
+Body
+5.HTML tags
+< html> … < /html> — The root element.
+< head> … < /head> — The document head.
+< title> … < /title> — The page title.
+< body> … < /body> — The page's content.
+< h1> … < /h1> — A section heading.
+< p> … < /p> — A paragraph.
+< a> … < /a> — A link.
+< img> — An image.
